@@ -1,0 +1,8 @@
+Add ax, Bx
+SUB Cx,    dx
+anD dl,cl
+or si  ,dI
+add eax , ecx
+sub EDI,ESI
+and esp,esp	;We can have comments
+or ebp,EBX

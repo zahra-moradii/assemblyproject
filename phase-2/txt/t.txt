@@ -1,0 +1,8 @@
+add cx, cx
+add cx, cx
+jmp short TstLabel
+add cx, cx
+add cx, cx
+add cx, cx
+TstLabel:
+add cx, cx

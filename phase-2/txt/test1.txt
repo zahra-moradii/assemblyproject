@@ -1,0 +1,6 @@
+add ax,bx
+jmp short Label1  ;jump to Label1
+sub eax,ecx
+and cl,cl
+Label1:
+or cx,dx

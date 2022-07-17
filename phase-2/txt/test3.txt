@@ -1,0 +1,8 @@
+and edx,ecx
+jmp short Label1
+Label1:
+or ax,bx
+Label2:
+or ax,ax
+Label1: ;repeated label name
+or ax,cx

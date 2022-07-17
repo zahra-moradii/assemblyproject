@@ -1,0 +1,5 @@
+add ax,ax
+jmp short 1Label 
+add ax,ax
+1Label:   ;invalid label name
+or dx,dx

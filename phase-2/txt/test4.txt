@@ -1,0 +1,4 @@
+sub dx,cx
+jmp short Label2  ;misspelling the label
+Label1:
+sub dx,dx
